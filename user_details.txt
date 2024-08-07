@@ -12,7 +12,5 @@ Password	: Password@123
 **Database Name: "wbbtrs"**
 
 
-**Recommended PHP Version 7.3(software attached)**
-
 **Note**
 The system includes a payment gateway and an SMS gateway. An https server is required to run the SMS gateway. So it should run on an https server. And you should include that server path in notify.php.
