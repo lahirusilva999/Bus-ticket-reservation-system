@@ -1,0 +1,8 @@
+If you run this system, please use Laragon server software. Laragon is better than XAMPP software. It's supports all PHP + MySQL versions.
+
+* First, You should add backend file to the www folder under Laragon. 
+
+* And then, you should import the database file.
+
+Use this link download Laragon latesest version
+https://laragon.org/download/
